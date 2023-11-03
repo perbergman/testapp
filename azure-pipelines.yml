@@ -12,7 +12,7 @@ steps:
       app_location: '/build'
       api_location: 'api'
       output_location: '/output'
-      azure_static_web_apps_api_token: $(deployment_token)
+      azure_static_web_apps_api_token: 5dee30817c0a4aa50a1079cc3d8c83aed567c85e4026562890d24de16edcfa914-6a2fb4a6-7f5b-4a93-9cfd-589f87263cf401e55234
     env:
       SKIP_DEPLOY_ON_MISSING_SECRETS: false
 
